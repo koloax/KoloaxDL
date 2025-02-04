@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models\humans\male\brett_hairCap_albedo_alpha"
+	"$bumpmap"					"models\humans\male\brett_hairCard_normalMap"
+	"$alphatest" "1"
+	"$nocull" "1"
+	
+
+
+	$phong						1
+	$phongexponent				90
+	$phongboost					2
+	$phongfresnelranges			"[.05 .05 .05]"
+}

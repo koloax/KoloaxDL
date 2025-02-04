@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/Lenoax/AmongUs/Suit/Suit_Red_diff"
+	"$bumpmap" 	"models/Lenoax/AmongUs/Suit/Suit_normal"
+
+	"$color2" "[ 0 0 0 ]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phong" "1"
+        "$phongboost"	"1"
+	"$phongfresnelranges"	"[0 0.25 0.25]"
+	"$halflambert" "1"
+	"$phongexponenttexture" "models/Lenoax/AmongUs/Suit/Suit_exp"
+
+}

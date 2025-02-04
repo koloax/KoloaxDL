@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "freak_fortress_2\onepunch\saitama_eyes"
+	"$surfaceprop" "Flesh"
+}

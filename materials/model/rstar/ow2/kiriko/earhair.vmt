@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\rstar\OW2\Kiriko\EarHair_d"
+	"$bumpmap" "model\rstar\OW2\Kiriko\EarHair_n"
+	"$alphatest"		"1"
+	"$alphatestreference"	".9"
+	"$nocull" 1
+	"$nodecal" 1
+
+	"$lightwarptexture" "shared\toon_hair"
+
+	"$phong" "1"
+	"$phongboost"	"0.1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "shared\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "0.7"
+	"$rimlightexponent"       "0.7"
+	"$rimlightboost"          "0.7"
+}

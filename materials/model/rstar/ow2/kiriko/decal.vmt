@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\rstar\OW2\Kiriko\Decal_d"
+	"$bumpmap" "model\rstar\OW2\Kiriko\Decal_n"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "model\rstar\OW2\Kiriko\Cave"
+               "$envmapfresnel" "1"
+               "$envmaptint" "[ .5 .5 .5 ]"
+	"$alphatest" 1
+	"$lightwarptexture" "shared\lightwarptexture"
+  
+	"$phong" "1"
+               "$phongexponent" "5"
+               "$phongboost" "1"
+    "$phongtint" "[ .4 .4 .4 ]"
+               "$phongfresnelranges" "[2.2 3.7 4]"
+	"$halflambert" "1"
+}

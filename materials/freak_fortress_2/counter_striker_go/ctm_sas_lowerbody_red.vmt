@@ -1,0 +1,12 @@
+"patch"
+{
+	"include" "materials/freak_fortress_2/counter_striker_go/ctm_sas_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "freak_fortress_2/counter_striker_go/ctm_sas_lowerbody_vara"
+	"$bumpmap" "freak_fortress_2/counter_striker_go/ctm_sas_lowerbody_normal"
+
+	"$phongexponenttexture" "freak_fortress_2/counter_striker_go/ctm_sas_lowerbody_exponent"
+//	"$rimmask" "1"
+	}	
+}

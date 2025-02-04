@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/Weapons/Boneworks/Eder22/v_models/bullets_d"
+
+
+	$basealphaenvmapmask 1
+	$envmap						env_cubemap
+	$envmaptint					"[ 1 .8 .3 ]"
+	
+	
+	$phong						1
+	$phongexponent				100
+	$phongboost					50
+	$phongfresnelranges			"[2 5 8]"
+
+
+}

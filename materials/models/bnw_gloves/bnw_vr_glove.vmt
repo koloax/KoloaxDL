@@ -1,0 +1,25 @@
+"vertexlitgeneric"
+{
+	"$basetexture"			"models/bnw_gloves/bnw_gloves_D"
+	"$bumpmap"			"models/bnw_gloves/bnw_gloves_N"
+	"$phongexponenttexture"		"models/bnw_gloves/bnw_gloves_E"
+       //$detail models/bnw_gloves/bnw_gloves_S
+       //$detailscale 1        //scales the detail texture to same size as diffuse.
+       //$detailblendfactor 1  //lower values make the texture less visible. 0.0 - 1.0
+       //$detailblendmode 6    //6 also works.
+
+	$envmap						env_cubemap
+	$envmaptint					"[ .01 .01 .01 ]"
+	$normalmapalphaenvmapmask	"0"	
+	
+	$phong						1
+	$phongexponent				10
+	$phongboost					1
+	$phongfresnelranges			"[.25 .25 .25]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"10"	
+	"$rimlightboost"			"0"
+	"$rimmask"					"1"
+
+	}

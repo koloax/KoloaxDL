@@ -1,0 +1,19 @@
+EyeRefract
+{
+$Iris "models\Splinks\FNAF\freddy/Eyeball" 
+$AmbientOcclTexture "models\splinks\FNAF\SHARED\eye_ao" 
+$Envmap "models\splinks\FNAF\SHARED/eye-reflection-cubemap-" 
+$CorneaTexture "models\splinks\FNAF\SHARED/eye-cornea" 
+$EyeballRadius "2.9" 
+$AmbientOcclColor "[.4 .3 .27]" 
+$Dilation ".6" 
+$ParallaxStrength "0.25" 
+$CorneaBumpStrength ".5" 
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+
+$RaytraceSphere 1 
+$SphereTexkillCombo 0 
+}
+

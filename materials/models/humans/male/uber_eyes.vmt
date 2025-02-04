@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models\humans\male\uber_eyes"
+
+	$envmap env_cubemap
+	$envmaptint [.2 .2 .2]
+
+	
+
+
+}

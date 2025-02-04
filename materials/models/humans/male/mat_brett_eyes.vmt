@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models\humans\male\texture_brett_eyeBall_Albedo"
+
+	$envmap env_cubemap
+	$envmaptint [.2 .2 .2]
+
+	
+
+
+}

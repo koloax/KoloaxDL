@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "freak_fortress_2\onepunch\saitama"
+	"$envmap" "env_cubemap"
+	$envmapmask "freak_fortress_2\onepunch\saitama_spec"
+	"$surfaceprop" "Flesh"
+}

@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "freak_fortress_2/counter_striker_go/ct_sas_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "freak_fortress_2/counter_striker_go/ct_sas_glass_spec"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}
+

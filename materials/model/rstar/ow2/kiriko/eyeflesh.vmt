@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\rstar\OW2\Kiriko\EyeFlesh_d"
+	"$bumpmap" "model\rstar\OW2\Kiriko\EyeFlesh_n"
+	"$alphatest" 1
+	"$nocull" "1"
+	"$lightwarptexture" "shared\lightwarptexture"
+  
+	"$phong" "1"
+               "$phongexponent" "5"
+               "$phongboost" ".5"
+    "$phongtint" "[ .4 .4 .4 ]"
+               "$phongfresnelranges" "[2.2 3.7 4]"
+	"$halflambert" "1"
+}

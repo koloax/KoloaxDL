@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "freak_fortress_2/ryu/ryu_eyebrow"
+
+	"$alphatest" "1"
+    "$AllowAlphaToCoverage" "1"
+
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"spy_invis"
+		{
+		}
+	}
+}

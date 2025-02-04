@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"freak_fortress_2\armstrong_fix\tie"
+	"$bumpmap" 					"freak_fortress_2\armstrong_fix\tie_n"
+
+	"$phongalbedotint" 1
+	"$phongfresnelranges"			"[5 7 8]"
+
+	"$phongexponenttexture" "models\MGRRevengeance\shared\green"
+	"$lightwarptexture" "freak_fortress_2\armstrong_fix\armstrong_lightwarp"
+	"$phong" "1"
+	"$phongexponent"				"5"
+	"$phongboost"					"0.2"
+}
+

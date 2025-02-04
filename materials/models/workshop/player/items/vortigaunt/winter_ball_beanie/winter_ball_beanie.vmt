@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\workshop\player\items\vortigaunt\winter_ball_beanie\winter_ball_beanie_color"
+	"$surfaceprop"	"default"
+	"$nocull" "1"
+	"$halflambert" "1"
+	"$model" 1
+}

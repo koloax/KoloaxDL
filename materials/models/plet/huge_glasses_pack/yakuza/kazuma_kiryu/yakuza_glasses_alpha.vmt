@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\plet\Huge_Glasses_Pack\Yakuza\Kazuma_Kiryu\c_am_com_sunglassa_ref"
+	"$bumpmap" "models\plet\Huge_Glasses_Pack\Yakuza\Kazuma_Kiryu\c_am_com_sunglassa_tn"
+	"$additive"	"1"
+	"$color2"	"[0.0 0.0 0.0]"
+	"$basetexturetransform"	"center .5 .5 scale 50 50 rotate 0 translate 0 0"
+	"$bumptransform"	"center .5 .5 scale 50 50 rotate 0 translate 0 0"
+
+	"$phongexponent" "3"
+	"$phongexponenttexture"	"models/plet/shared/green2"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"0.01"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+}

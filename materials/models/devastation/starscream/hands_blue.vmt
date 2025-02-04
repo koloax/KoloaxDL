@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/devastation/starscream/hands_blue"
+	"$surfaceprop"	"metal"
+	"$halflambert"	"1"
+	
+	"$lightwarptexture"	"models/devastation/starscream/lightwarp"
+	"$detail"			"models/devastation/starscream/hands_highlights"
+	"$detailscale"		"1"
+	"$basetexturealphaenvmapmask" 1
+	
+ 	"$phong"				"1"
+	"$phongexponent"		"3"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint"		"1"
+	
+	"Proxies"
+	{
+		"spy_invis" //wmodel and team color cloak support
+		{
+		}
+		"invis" //vmodel cloak support
+		{
+		}
+	}
+}

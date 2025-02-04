@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\plet\Huge_Glasses_Pack\Yakuza\Kazuma_Kiryu\c_am_richard_sunglass_di"
+	"$bumpmap" "models\plet\Huge_Glasses_Pack\Yakuza\Kazuma_Kiryu\c_am_com_sunglassa_tn"
+
+	"$phongexponent" "13"
+	"$phongexponenttexture"	"models/plet/shared/white"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+	"$halflambert" "1"
+	
+
+
+}

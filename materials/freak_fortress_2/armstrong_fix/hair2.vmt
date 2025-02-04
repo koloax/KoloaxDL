@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"freak_fortress_2\armstrong_fix\hair"
+
+	"$alphatest" "1"
+	"$lightwarptexture" "freak_fortress_2\armstrong_fix\armstrong_lightwarp"
+	"$ambientocclusion" 0
+	
+
+}
+

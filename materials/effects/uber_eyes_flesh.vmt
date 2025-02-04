@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"effects\uber_eyes"
+
+	$envmap env_cubemap
+	$envmaptint [.2 .2 .2]
+
+	
+
+
+}

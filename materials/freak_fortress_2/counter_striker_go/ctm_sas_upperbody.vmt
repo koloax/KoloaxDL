@@ -1,0 +1,22 @@
+"patch"
+{
+	"include" "materials/freak_fortress_2/counter_striker_go/ctm_sas_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "freak_fortress_2/counter_striker_go/ctm_sas_upperbody_varb"
+	"$bumpmap" "freak_fortress_2/counter_striker_go/ctm_sas_upperbody_normal"
+	
+	"$phongexponenttexture" "freak_fortress_2/counter_striker_go/ctm_sas_upperbody_exponent"
+//	"$rimmask" "1"
+
+	//$selfillum 1
+	//$selfillumfresnel 1
+	//$SELFILLUMFRESNELMINMAXEXP "[ 0 20 8 ]" // scale max with distance in shader 1-x
+	//$SELFILLUMTINT "[ .30 .52 .85 ]"
+	//$SELFILLUMMASK "freak_fortress_2/counter_striker_go/ctm_sas_upperbody_selfillummask"
+
+// Proxies
+//"$SelfIllumFresnelEnabledThisFrame" "0"
+
+	}	
+}

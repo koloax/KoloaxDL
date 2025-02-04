@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 				"freak_fortress_2\armstrong_fix\face_nanomachines"
+	"$bumpmap" 					"freak_fortress_2\armstrong_fix\face_nanomachines_n"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "3"
+	"$phongalbedotint" 1
+	"$phongfresnelranges"			"[5 7 8]"
+
+	"$phong" "1"
+	"$phongexponent"				"6"
+	"$phongboost"					"2"
+}
+
